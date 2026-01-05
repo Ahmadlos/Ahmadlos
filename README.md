@@ -1,5 +1,7 @@
 ### Hi there, I'm Ahmad - Ahmad LOS 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmadlos&color=blueviolet&style=for-the-badge)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-los/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmadlos)
 
@@ -8,13 +10,26 @@
 - 🏢 Working at **LOSDC Studio** - Jordan 🇯🇴
 - 💻 Specialized in application development using **C++** and **C#**, web development using **React** and **Next.js**, and game development with custom game engines
 - 🎮 Developing games using my own custom game engine
-- 🌱 Developing diverse projects in software, web, and game development
+- 🌱 Currently learning and improving my skills in game engine development
 - 🎯 Focused on building efficient and reliable software solutions
+- ⚡ Fun fact: I love creating custom solutions from scratch
 
 ### Connect with me:
 
 [<img align="left" alt="Ahmad LOS | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="Ahmadlos | GitHub" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />][github]
+
+<br />
+
+### 💻 Tech Stack
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 <br />
 
@@ -68,6 +83,18 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadlos&theme=tokyonight&hide_border=true&layout=compact" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadlos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📈 GitHub Activity
+
+<div align="center">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadlos&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
