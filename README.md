@@ -81,8 +81,8 @@
 ### :zap: GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadlos&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadlos&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 <div align="center">
@@ -102,7 +102,7 @@
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmadlos&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmadlos&theme=tokyonight&no-frame=false&column=3" alt="GitHub Achievements" />
 </div>
 
 ---
