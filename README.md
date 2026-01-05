@@ -66,12 +66,8 @@
 ### :zap: GitHub Stats
 
 <div align="center">
-  <img align="left" alt="Ahmadlos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
-</div>
-<br clear="both" />
-
-<div align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadlos&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadlos&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 ---
