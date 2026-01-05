@@ -1,125 +1,86 @@
-### Hi there, I'm Ron - aka [CryoTechnic][website] 👋 
+### Hi there, I'm Ahmad - Ahmad LOS 👋
 
-[![Website](https://img.shields.io/website?label=Portfolio@Vercel&style=for-the-badge&url=https%3A%2F%2Fportfolio-web-rho.vercel.app)](https://portfolio-web-rho.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-los/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmadlos)
 
-## I just like making cool things for people, welcome to my page!
+## Software Developer specialized in Application Development, Systems, Web Development, and Game Development
 
-- 🎓 Studying IT Engineering at École de Technologie Supérieure
-- 🌱 I’m currently learning C# 😁
-- 🥅 2025 Goals: Enhance my skills in C# and continue developing projects related to the language
-- ⚡ Fun fact: I love to draw and play video games 🎮
+- 🏢 Working at **LOSDC Studio** - Jordan 🇯🇴
+- 💻 Specialized in application development using **C++** and **C#**, web development using **React** and **Next.js**, and game development with custom game engines
+- 🎮 Developing games using my own custom game engine
+- 🌱 Developing diverse projects in software, web, and game development
+- 🎯 Focused on building efficient and reliable software solutions
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio@Vercel" width="22px" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />][website]
-[<img align="left" alt="Ron Friedman | LinkedIn" width="22px" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="Ahmad LOS | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="Ahmadlos | GitHub" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />][github]
 
 <br />
 
-### Languages I manipulate
+### Programming Languages I Use
 
 <div align="left">
-  <img height="30" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img height="30" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img width="16" />
-  <img height="30" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height="30" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img width="16" />
   <img height="30" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="16" />
   <img height="30" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img width="16" />
-  <img height="30" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="16" />
-  <img height="30" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img width="16" />
-  <img height="30" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-  <img width="16" />
-  <img height="30" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
-  <img width="16" />
-  <img height="30" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img width="16" />
-  <img height="30" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="16" />
 </div>
 
-### Frameworks I daily-drive
+### Frameworks & Technologies
 
 <div align="left">
   <img alt=".NET Logo" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img width="16" />
-  <img alt="ExpressJS Logo" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img alt=".NET Core" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img width="16" />
   <img alt="React Logo" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img width="16" />
-  <img alt="NodeJS Logo" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img alt="Next.js Logo" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img width="16" />
-  <img alt="GatsbyJS Logo" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg" />
-  <img width="16" />
-  <img height="40" alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
-  <img width="16" />
-  <img height="40" alt="Django REST Framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
-  <img width="16" />
-  <img height="30" alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-  <img width="16" />
-  <img height="30" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img width="16" />
-  <img height="30" alt="Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
 </div>
 
+### Tools I Use
 
-### Tools I use for tinkering
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="30" alt="vs logo" />
   <img width="16" />
-  <img height="30" alt="IntelliJ Qodana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qodana/qodana-original.svg" />
-  <img width="16" />
-  <img height="30" alt="IntelliJ Rider" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />
-  <img width="16" />
-  <img height="30" alt="Insomnia" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" height="30" alt="sqldeveloper logo" />
-  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="16" />
-  <img height="30" alt="Circle CI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circleci/circleci-plain.svg" />
+  <img height="30" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img width="16" />
-  <img height="30" alt="CodeCov" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codecov/codecov-plain.svg" />
-  <img width="16" />
-  <img height="30" alt="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="30" alt="vercel logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="30" alt="netlify logo" />
 </div>
 
 ---
-### :zap: Recent Activity
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#41](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/41) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
-2. 💪 Opened PR [#41](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/41) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
-3. ❌ Closed PR [#40](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/40) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
-4. 💪 Opened PR [#40](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/40) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
-5. ❌ Closed PR [#39](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo/pull/39) in [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo)
-<!--END_SECTION:activity-->
+
+### 📂 Featured Projects
+
+<!-- Projects will be added here later -->
 
 ### :zap: GitHub Stats
+
 <div align="center">
-  <img align="left" alt="CryoTechnic's GitHub Stats" src="https://github-readme-stats-cryotechnic.vercel.app/api?username=CryoTechnic&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
+  <img align="left" alt="Ahmadlos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
 </div>
 <br clear="both" />
 
-### 🎶 What I'm currently listening to 
-[![Spotify](https://novatorem-cryotechnic.vercel.app/api/spotify)](https://open.spotify.com/user/mrgamingt00lman)
+<div align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadlos&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-[website]: https://portfolio-web-rho.vercel.app/
-[linkedin]: https://www.linkedin.com/in/ron-friedman123123/
+---
+
+### 🏆 Achievements
+
+![YOLO](https://github-profile-trophy.vercel.app/?username=Ahmadlos&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15)
+
+---
+
+[linkedin]: https://www.linkedin.com/in/ahmad-los/
+[github]: https://github.com/Ahmadlos
