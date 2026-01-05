@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-los/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmadlos)
 
-## Software Developer specialized in Application Development, Systems, Web Development, and Game Development
+## I just like making cool things for people, welcome to my page!
 
 - 🏢 Working at **LOSDC Studio** - Jordan 🇯🇴
 - 💻 Specialized in application development using **C++** and **C#**, web development using **React** and **Next.js**, and game development with custom game engines
@@ -74,6 +74,14 @@
 
 ---
 
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- Recent activity will be updated automatically via GitHub Actions -->
+<!--END_SECTION:activity-->
+
+---
+
 ### 📂 Featured Projects
 
 <!-- Projects will be added here later -->
@@ -81,13 +89,9 @@
 ### :zap: GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadlos&theme=tokyonight&hide_border=true&layout=compact" />
+  <img align="left" alt="Ahmadlos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahmadlos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<br clear="both" />
 
 ---
 
@@ -104,6 +108,13 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ahmadlos&theme=tokyonight&no-frame=false&column=3" alt="GitHub Achievements" />
 </div>
+
+---
+
+### 🎶 What I'm currently listening to
+
+<!-- Spotify integration - optional, requires Spotify API setup -->
+<!-- [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID) -->
 
 ---
 
