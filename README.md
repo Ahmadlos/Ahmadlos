@@ -81,12 +81,12 @@
 ### :zap: GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadlos&theme=tokyonight&hide_border=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadlos&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadlos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ahmadlos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -101,7 +101,9 @@
 
 ### 🏆 Achievements
 
-![YOLO](https://github-profile-trophy.vercel.app/?username=Ahmadlos&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmadlos&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Achievements" />
+</div>
 
 ---
 
