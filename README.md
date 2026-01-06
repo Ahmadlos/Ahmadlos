@@ -109,7 +109,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmadlos/myGitHubProfile/output/github-contribution-grid-snake.svg" alt="snake eating my contribution graph" />
+  <img src="https://raw.githubusercontent.com/Ahmadlos/Ahmadlos/output/github-contribution-grid-snake.svg" alt="snake eating my contribution graph" />
 </div>
 
 <!-- Snake animation will appear after GitHub Actions workflow runs -->
