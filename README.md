@@ -90,12 +90,16 @@
 ### :zap: GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" alt="Ahmadlos's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadlos&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img align="left" alt="Ahmadlos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+</div>
+<br clear="both" />
+
+<div align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadlos&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahmadlos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadlos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -109,18 +113,14 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmadlos/myGitHubProfile/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Ahmadlos/myGitHubProfile/output/github-contribution-grid-snake.svg" alt="snake eating my contribution graph" />
 </div>
-
-<!-- Note: Snake animation will appear after the first GitHub Actions workflow run -->
 
 ---
 
 ### 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmadlos&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Achievements" />
-</div>
+![trophy](https://github-profile-trophy.vercel.app/?username=Ahmadlos&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15)
 
 ---
 

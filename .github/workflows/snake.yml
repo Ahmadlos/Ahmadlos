@@ -16,7 +16,6 @@ jobs:
       
       - name: Generate Snake
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: Ahmadlos
           gif_out_path: dist/github-contribution-grid-snake.gif
@@ -29,3 +28,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           destination_dir: output
+          keep_files: false
