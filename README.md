@@ -21,6 +21,7 @@
 
 <br />
 
+
 ### 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -89,9 +90,13 @@
 ### :zap: GitHub Stats
 
 <div align="center">
-  <img align="left" alt="Ahmadlos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadlos&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
-<br clear="both" />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ahmadlos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -99,6 +104,12 @@
 
 <div align="center">
   <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadlos&theme=tokyo-night&hide_border=true" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ahmadlos/myGitHubProfile/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 ---
