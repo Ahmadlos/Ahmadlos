@@ -90,8 +90,8 @@
 ### :zap: GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadlos&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" alt="Ahmadlos's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadlos&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -109,22 +109,27 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmadlos/myGitHubProfile/main/dist/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Ahmadlos/myGitHubProfile/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
+
+<!-- Note: Snake animation will appear after the first GitHub Actions workflow run -->
 
 ---
 
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmadlos&theme=tokyonight&no-frame=false&column=3" alt="GitHub Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmadlos&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Achievements" />
 </div>
 
 ---
 
 ### 🎶 What I'm currently listening to
 
-<!-- Spotify integration - optional, requires Spotify API setup -->
+<!-- Spotify integration - requires setup -->
+<!-- To enable: 1) Create Spotify app at https://developer.spotify.com/dashboard -->
+<!-- 2) Set up secrets in repository settings -->
+<!-- 3) Uncomment the line below and add your Spotify user ID -->
 <!-- [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID) -->
 
 ---
