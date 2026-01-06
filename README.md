@@ -109,7 +109,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmadlos/Ahmadlos/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Ahmadlos/myGitHubProfile/main/dist/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 ---
