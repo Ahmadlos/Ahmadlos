@@ -86,9 +86,12 @@
 
 ### 📈 GitHub Activity
 
-<div align="center">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadlos&theme=tokyo-night&hide_border=true" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.deepchirp.com/api?username=DeepChirp&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.deepchirp.com/api/top-langs/?username=DeepChirp&layout=compact&langs_count=8&theme=transparent" />
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeepChirp/DeepChirp/output/github-contribution-grid-snake-dark.svg" />
