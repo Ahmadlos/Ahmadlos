@@ -90,3 +90,8 @@
   <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadlos&theme=tokyo-night&hide_border=true" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeepChirp/DeepChirp/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeepChirp/DeepChirp/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DeepChirp/DeepChirp/output/github-contribution-grid-snake.svg" />
+</picture>
