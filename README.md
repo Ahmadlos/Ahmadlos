@@ -132,6 +132,7 @@
 <!-- 3) Uncomment the line below and add your Spotify user ID -->
 <!-- [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID) -->
 
+---
 
     <defs>
         <style/>
