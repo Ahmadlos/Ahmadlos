@@ -106,18 +106,18 @@
 ### 📈 GitHub Activity
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Ahmadlos/Ahmadlos/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Ahmadlos/Ahmadlos/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Ahmad LOS Contribution Snake"
-      src="https://raw.githubusercontent.com/Ahmadlos/Ahmadlos/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ahmadlos/Ahmadlos/snake-output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ahmadlos/Ahmadlos/snake-output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Ahmadlos GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Ahmadlos/Ahmadlos/snake-output/github-contribution-grid-snake.svg"
+  />
+</picture>
 </div>
