@@ -75,26 +75,49 @@
 
 ---
 
+
 ### GitHub Stats
 
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ahmadlos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="Ahmad LOS GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadlos&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Ahmad LOS Top Languages"
+  />
+</div>
+
+### GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahmadlos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Ahmadlos&theme=tokyonight&hide_border=true"
+    alt="Ahmad LOS GitHub Streak"
+  />
 </div>
 
 ---
 
 ### 📈 GitHub Activity
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.deepchirp.com/api?username=DeepChirp&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.deepchirp.com/api/top-langs/?username=DeepChirp&layout=compact&langs_count=8&theme=transparent" />
-</a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeepChirp/DeepChirp/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeepChirp/DeepChirp/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DeepChirp/DeepChirp/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ahmadlos/Ahmadlos/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Ahmadlos/Ahmadlos/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Ahmad LOS Contribution Snake"
+      src="https://raw.githubusercontent.com/Ahmadlos/Ahmadlos/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
